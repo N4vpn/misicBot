@@ -12,8 +12,8 @@
         "pyrogram"
     ],
     "website": "https://t.me/beginner_2015",
-    "repository": "https://github.com/thantzan212/n4vpnxmusic",
-    "success_url": "https://t.me/thantzin212",
+    "repository": "https://github.com/N4vpn/musicbot",
+    "success_url": "https://t.me/Minkhantk",
     "env": {
         "API_ID": {
             "description": "your API_ID from my.telegram.org",
@@ -50,12 +50,12 @@
         "SUDO_USERS": {
             "description": "list of user id to be added to sudo member list, or just fill with your id",
             "required": true,
-            "value": "1757169682"
+            "value": "1201631109"
         },
         "UPSTREAM_REPO": {
             "description": "This is needed for update feature, if you deployed forked repo put your forked repo link here, if not just leave it as it",
             "required": true,
-            "value": "https://github.com/thantzan212/n4vpmxmusic"
+            "value": "https://github.com/N4vpn/musicbot"
         },
         "GROUP_SUPPORT": {
             "description": "if you have group, then fill the group username here without @",
@@ -70,12 +70,12 @@
         "OWNER_NAME": {
             "description": "fill with your telegram account username without @",
             "required": true,
-            "value": "thantzin212"
+            "value": "Minkhant"
         },
         "ALIVE_NAME": {
             "description": "fill with your telegram account nickname/name",
             "required": true,
-            "value": "I'm Not Kelvin"
+            "value": "ပေါက်ကရ"
         }
     },
     "addons": [],
