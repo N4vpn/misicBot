@@ -1,2 +1,2 @@
-# misicBot
-N4 musicBot
+# musicBot
+N4 musicBot.
